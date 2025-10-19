@@ -1,0 +1,1 @@
+This is a selected set of code from the research I conducted with the Kundaje Lab as a high school sophomore to junior, from Jun 2023 – May 2024. In this project, I develop and implement a novel bimodal deep learning framework based on BPNet to integrate genetic sequence and chromatin environment to predict for transcription initiation.
